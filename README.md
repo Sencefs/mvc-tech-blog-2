@@ -52,6 +52,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 
 ## Mock-Up
-https://blooming-crag-07533.herokuapp.com
+https://blooming-crag-07533.herokuapp.com/login
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
